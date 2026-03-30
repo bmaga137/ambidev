@@ -1,2 +1,0 @@
-# ambidev
-ambientes de dev
